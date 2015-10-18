@@ -1,0 +1,18 @@
+{"celebrites": [
+    {"id":1, "name":"Angelina Jolie", "num":1, "product":"Poster", "price":10,"img":"img/angelina_jolie.jpg"}, 
+    {"id":2, "name":"Anne Hathaway", "num":2, "product":"Poster", "price":11,"img":"img/anne_hathaway.jpg"}, 
+    {"id":3, "name":"David Beckham", "num":3, "product":"Poster", "price":10,"img":"img/david_beckham.jpg"}, 
+    {"id":4, "name":"Jude Law", "num":4, "product":"Poster", "price":12,"img":"img/jude_law.jpg"}, 
+    {"id":5, "name":"Hugh Jackman", "num":5, "product":"Poster", "price":9,"img":"img/hugh_jackman.jpg"}, 
+    {"id":6, "name":"Jennifer Lopez", "num":6, "product":"Poster", "price":10,"img":"img/jennifer_lopez.jpg"}, 
+    {"id":7, "name":"Jessica Alba", "num":7, "product":"Poster", "price":11,"img":"img/jessica_alba.jpg"}, 
+    {"id":8, "name":"Jet Li", "num":8, "product":"Poster", "price":10,"img":"img/jet_li.jpg"}, 
+    {"id":9, "name":"Johnny Depp", "num":9, "product":"Poster", "price":10,"img":"img/johnny_depp.jpg"}, 
+    {"id":10, "name":"Kate Winslet", "num":10, "product":"Poster", "price":12,"img":"img/kate_winslet.jpg"}, 
+    {"id":11, "name":"Matt Damon", "num":11, "product":"Poster", "price":9,"img":"img/matt_damon.jpg"}, 
+    {"id":12, "name":"Nina Dobrev", "num":12, "product":"Poster", "price":9,"img":"img/nina_dobrev.jpg"}, 
+    {"id":13, "name":"Taylor Swift", "num":13, "product":"Poster", "price":10,"img":"img/taylor_swift.jpg"}, 
+    {"id":14, "name":"Tom Cruise", "num":14, "product":"Poster", "price":11,"img":"img/tom_cruise.jpg"}
+       
+  ]
+}

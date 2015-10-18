@@ -1,0 +1,35 @@
+.jumbo {
+    padding: 2%;
+    margin: 5%;
+    background-color: #eee;
+}
+
+h1 {
+    font-family: sans-serif;
+    margin-bottom: 20px;
+}
+
+.Details {
+    font-size: 9px;
+}
+
+.name {
+    font-size: 10xp;
+}
+
+@media screen and (min-width: 600px) {
+    .Details {
+        font-size: 1.2rem;
+    }
+    .name {
+        font-size: 2rem;
+    }
+    .deName {
+        font-size: 3rem;
+        margin-bottom: 30px;
+    }
+}
+
+.detailPage {
+    text-align: center;
+}
